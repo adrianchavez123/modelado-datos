@@ -1,0 +1,63 @@
+/*@import '~carbon-components/scss/globals/scss/styles.scss';*/
+@import "@carbon/themes/scss/themes";
+
+$carbon--theme: $carbon--theme--g100;
+@include carbon--theme();
+// import Carbon styles here
+@import "~carbon-components/scss/globals/scss/styles.scss";
+
+body {
+  margin: 0;
+  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color:#edf5ff;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-family: inherit;
+    color: #4589ff;
+    font-weight: inherit;
+}
+
+h2 {
+    font-size: 2rem;
+    font-family: inherit;
+    color: inherit;
+    font-weight: inherit;
+}
+
+h3 {
+    font-size: 1.8rem;
+    font-family: inherit;
+    color: inherit;
+    font-weight: inherit;
+}
+h4 {
+  font-size: 1.5rem;
+  font-family: inherit;
+  color: inherit;
+  font-weight: inherit;
+}
+
+h5 {
+  font-size: 1.3rem;
+  font-family: inherit;
+  color: inherit;
+  font-weight: inherit;
+}
+
+h4 {
+  font-size: 1.2rem;
+  font-family: inherit;
+  color: inherit;
+  font-weight: inherit;
+}
+p, label,a {
+  font-size: 16px !important;
+  font-family: inherit;
+  color: inherit;
+  font-weight: inherit;
+}

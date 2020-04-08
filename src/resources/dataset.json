@@ -1,0 +1,272 @@
+[
+  {
+    "_id": "5e8a58f14ffd713603576a87",
+    "anio": 2014,
+    "aPaterno": "ORTEGA",
+    "aMaterno": "MENDEZ",
+    "nombre": "ABDIEL",
+    "areaConocimiento": {
+      "nombre": "INGENIERIAS",
+      "codigo": 7
+    },
+    "nivel": "MAESTRIA",
+    "institucion": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+    "pais": {
+      "nombre": "COLOMBIA",
+      "codigo": "COL"
+    },
+    "genero": "M"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a88",
+    "anio": 2014,
+    "aPaterno": "SUAREZ",
+    "aMaterno": "CASTRO",
+    "nombre": "ABEL",
+    "areaConocimiento": {
+      "nombre": "BIOLOGIA Y QUIMICA",
+      "codigo": 2
+    },
+    "nivel": "MAESTRIA",
+    "institucion": "UNIVERSITY OF CAMBRIDGE",
+    "pais": {
+      "nombre": "REINO UNIDO",
+      "codigo": "GBR"
+    },
+    "genero": "M"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a89",
+    "anio": 2014,
+    "aPaterno": "CARRETERO",
+    "aMaterno": "HERNANDEZ",
+    "nombre": "ABIGAIL",
+    "areaConocimiento": {
+      "nombre": "HUMANIDADES Y CS. DE LA CONDUCTA",
+      "codigo": 4
+    },
+    "nivel": "DOCTORADO",
+    "institucion": "PENNSYLVANIA STATE UNIVERSITY",
+    "pais": {
+      "nombre": "ESTADOS UNIDOS",
+      "codigo": "USA"
+    },
+    "genero": "F"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a8a",
+    "anio": 2014,
+    "aPaterno": "GRANADOS",
+    "aMaterno": "MARTINEZ",
+    "nombre": "ABRAHAM",
+    "areaConocimiento": {
+      "nombre": "CIENCIAS SOCIALES",
+      "codigo": 5
+    },
+    "nivel": "DOCTORADO",
+    "institucion": "ARIZONA STATE UNIVERSITY",
+    "pais": {
+      "nombre": "ESTADOS UNIDOS",
+      "codigo": "USA"
+    },
+    "genero": "M"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a8b",
+    "anio": 2014,
+    "aPaterno": "ARIAS",
+    "aMaterno": "LEON",
+    "nombre": "ABRAHAM",
+    "areaConocimiento": {
+      "nombre": "INGENIERIAS",
+      "codigo": 7
+    },
+    "nivel": "DOCTORADO",
+    "institucion": "TEXAS STATE UNIVERSITY",
+    "pais": {
+      "nombre": "ESTADOS UNIDOS",
+      "codigo": "USA"
+    },
+    "genero": "M"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a8c",
+    "anio": 2014,
+    "aPaterno": "CETINA",
+    "aMaterno": "CORONA",
+    "nombre": "ABRAHAM FRANCISCO",
+    "areaConocimiento": {
+      "nombre": "BIOLOGIA Y QUIMICA",
+      "codigo": 2
+    },
+    "nivel": "DOCTORADO",
+    "institucion": "UNIVERSITE DE TOULOUSE",
+    "pais": {
+      "nombre": "FRANCIA",
+      "codigo": "FRA"
+    },
+    "genero": "M"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a8d",
+    "anio": 2014,
+    "aPaterno": "ORTIZ",
+    "aMaterno": "NAHON",
+    "nombre": "ABRAHAM JAHIR",
+    "areaConocimiento": {
+      "nombre": "CIENCIAS SOCIALES",
+      "codigo": 5
+    },
+    "nivel": "DOCTORADO",
+    "institucion": "UNIVERSIDAD DE BUENOS AIRES",
+    "pais": {
+      "nombre": "ARGENTINA",
+      "codigo": "ARG"
+    },
+    "genero": "M"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a8e",
+    "anio": 2014,
+    "aPaterno": "PIERRE",
+    "aMaterno": "",
+    "nombre": "ABSALON",
+    "areaConocimiento": {
+      "nombre": "HUMANIDADES Y CS. DE LA CONDUCTA",
+      "codigo": 4
+    },
+    "nivel": "DOCTORADO",
+    "institucion": "UNIVERSITY OF FLORIDA",
+    "pais": {
+      "nombre": "ESTADOS UNIDOS",
+      "codigo": "USA"
+    },
+    "genero": "M"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a8f",
+    "anio": 2014,
+    "aPaterno": "GONZALEZ",
+    "aMaterno": "PEREZ",
+    "nombre": "ADELA VERONICA",
+    "areaConocimiento": {
+      "nombre": "BIOLOGIA Y QUIMICA",
+      "codigo": 2
+    },
+    "nivel": "MAESTRIA",
+    "institucion": "UNIVERSIDAD DE LAS ISLAS BALEARES",
+    "pais": {
+      "nombre": "ESPAÑA",
+      "codigo": "ESP"
+    },
+    "genero": "F"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a90",
+    "anio": 2014,
+    "aPaterno": "ALVAREZ",
+    "aMaterno": "QUINTERO",
+    "nombre": "ADOLFO",
+    "areaConocimiento": {
+      "nombre": "HUMANIDADES Y CS. DE LA CONDUCTA",
+      "codigo": 4
+    },
+    "nivel": "MAESTRIA",
+    "institucion": "UNIVERSIDAD CATOLICA DOM BOSCO",
+    "pais": {
+      "nombre": "BRASIL",
+      "codigo": "BRA"
+    },
+    "genero": "M"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a91",
+    "anio": 2014,
+    "aPaterno": "DEL REAL",
+    "aMaterno": "HUERTA",
+    "nombre": "ADRIAN",
+    "areaConocimiento": {
+      "nombre": "HUMANIDADES Y CS. DE LA CONDUCTA",
+      "codigo": 4
+    },
+    "nivel": "MAESTRIA",
+    "institucion": "UNIVERSIDAD DE CASTILLA-LA MANCHA",
+    "pais": {
+      "nombre": "ESPAÑA",
+      "codigo": "ESP"
+    },
+    "genero": "M"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a92",
+    "anio": 2014,
+    "aPaterno": "OROZCO",
+    "aMaterno": "GUTIERREZ",
+    "nombre": "ADRIAN",
+    "areaConocimiento": {
+      "nombre": "CIENCIAS SOCIALES",
+      "codigo": 5
+    },
+    "nivel": "MAESTRIA",
+    "institucion": "UNIVERSIDAD DE SALAMANCA",
+    "pais": {
+      "nombre": "ESPAÑA",
+      "codigo": "ESP"
+    },
+    "genero": "M"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a93",
+    "anio": 2014,
+    "aPaterno": "GONZALEZ",
+    "aMaterno": "CASTILLO",
+    "nombre": "ADRIAN",
+    "areaConocimiento": {
+      "nombre": "BIOTECNOLOGIA Y CS. AGROPECUARIAS",
+      "codigo": 6
+    },
+    "nivel": "DOCTORADO",
+    "institucion": "UNIVERSIDAD FEDERAL DO RIO DE JANEIRO",
+    "pais": {
+      "nombre": "BRASIL",
+      "codigo": "BRA"
+    },
+    "genero": "M"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a94",
+    "anio": 2014,
+    "aPaterno": "ZENTENO",
+    "aMaterno": "GUTIERREZ",
+    "nombre": "ADRIAN",
+    "areaConocimiento": {
+      "nombre": "FISICO MATEMATICAS Y CS. DE LA TIERRA",
+      "codigo": 1
+    },
+    "nivel": "DOCTORADO",
+    "institucion": "UNIVERSIDAD DE BARCELONA",
+    "pais": {
+      "nombre": "ESPAÑA",
+      "codigo": "ESP"
+    },
+    "genero": "M"
+  },
+  {
+    "_id": "5e8a58f14ffd713603576a95",
+    "anio": 2014,
+    "aPaterno": "LOPEZ",
+    "aMaterno": "GOMEZ",
+    "nombre": "ADRIAN HUMBERTO",
+    "areaConocimiento": {
+      "nombre": "CIENCIAS SOCIALES",
+      "codigo": 5
+    },
+    "nivel": "MAESTRIA",
+    "institucion": "UNIVERSITY OF SAN DIEGO",
+    "pais": {
+      "nombre": "ESTADOS UNIDOS",
+      "codigo": "USA"
+    },
+    "genero": "M"
+  }
+]

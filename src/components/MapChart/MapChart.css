@@ -1,0 +1,46 @@
+#container svg {
+  background: black;
+}
+
+.svg-container {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+  vertical-align: top;
+  overflow: hidden;
+}
+
+.svg-content {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.svg-link {
+  font-size: 2rem;
+  color: white;
+  display: inline-block;
+  position: absolute;
+  z-index: 100;
+  top: 35%;
+  left: 10%;
+}
+
+#tooltip {
+  text-align: left;
+  padding: 16px;
+  background: #4589ff;
+  border: 1px solid #0f62fe;
+  width: auto;
+  color: white;
+  position: absolute;
+  top: -100px;
+  left: -100px;
+  z-index: 10000;
+}
+
+.info{
+  display:block;
+}

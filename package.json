@@ -3,12 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@carbon/charts": "^0.30.8",
+    "@carbon/charts-react": "^0.30.8",
+    "@carbon/themes": "^10.10.3",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "carbon-components": "^10.10.3",
+    "carbon-components-react": "^7.10.3",
+    "carbon-icons": "^7.0.7",
+    "d3": "^5.15.1",
+    "d3-cloud": "^1.2.5",
+    "d3-geo-projection": "^2.8.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-router-dom": "^5.1.2",
+    "react-router-hash-link": "^1.2.2",
+    "react-scripts": "3.4.1",
+    "topojson": "^3.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.1"
   }
 }
