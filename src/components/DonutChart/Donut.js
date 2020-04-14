@@ -32,7 +32,7 @@ class Donut extends React.Component {
     return (
     <div style={{display:"grid",justifyItems:'center',width:'80%',marginTop:'500px'}}>
       <div style={{justifySelf:'start',marginBottom:'3rem'}}>
-        <h3>Becas movilidad 2018 (cantidad estudiantes - paises)</h3>
+        <h3>Becas movilidad 2018 (genero estudiantes)</h3>
       </div>
       <div style={{background:'white', width:'100%'}}>
         <div  className="donut" style={{width:'420px',height:'420px',margin:'auto'}}>

@@ -129,7 +129,7 @@ class MapChart extends Component {
   }
   render(){
     return (
-    <div style={{display:"grid",justifyItems:'center',position:'relative',width:'100vw',height:'90vh'}}>
+    <div style={{display:"grid",justifyItems:'center',position:'relative',width:'100vw'}}>
       <div id="container" className="svg-container">
         <svg ref={this.anchor} />
       </div>
